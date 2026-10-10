@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+dist-ssr/
+
+# Tauri & Rust
+src-tauri/target/
+src-tauri/gen/schemas/
+
+# Python & Rembg Server
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Test outputs & temporary artifacts
+tests/last_saved_rembg.txt
+curl_test_out.png
+
+# Screenshots, Scratch & Reference Assets
+Screenshot *.png
+orca-paste-*.png
+audit/
+temp_frames/
+reference/
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
