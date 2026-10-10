@@ -1,4 +1,4 @@
-# Local Chat
+# Localan
 
 > Antarmuka obrolan AI desktop & web berdesain modern *liquid glass*, bertenaga [Ollama](https://ollama.com/) lokal, serta dilengkapi modul penghapusan latar belakang gambar (*Background Removal*) lokal bertenaga hardware Anda sendiri (NVIDIA CUDA / CPU). 100% privat, cepat, dan tanpa ketergantungan cloud.
 
