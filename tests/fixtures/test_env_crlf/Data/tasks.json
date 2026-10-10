@@ -1,0 +1,23 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Setup repository & tooling",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "title": "Implement File System Access API",
+      "status": "in_progress",
+      "priority": "high"
+    },
+    {
+      "id": 3,
+      "title": "Build CV ATS template for SMA/SMK",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ],
+  "version": "1.0.0"
+}
